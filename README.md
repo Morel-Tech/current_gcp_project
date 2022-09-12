@@ -2,6 +2,7 @@
 
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
+[![current_gcp_project](https://github.com/Morel-Tech/current_gcp_project/actions/workflows/current_gcp_project.yaml/badge.svg?event=push)](https://github.com/Morel-Tech/current_gcp_project/actions/workflows/current_gcp_project.yaml)
 
 A helper to determine the current GCP project your code is running on.
 
