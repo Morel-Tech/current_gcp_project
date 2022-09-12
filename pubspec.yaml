@@ -1,0 +1,18 @@
+name: current_gcp_project
+description: A helper to determine the current GCP project your code is running on.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.4
+  platform:
+    git:
+      url: https://github.com/felangel/platform.dart
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^3.0.1
