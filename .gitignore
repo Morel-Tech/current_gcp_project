@@ -10,3 +10,6 @@ pubspec.lock
 
 # Test related files
 coverage/
+
+mason-lock.json
+.mason

@@ -4,13 +4,13 @@ version: 0.0.1
 homepage: https://github.com/Morel-Tech/current_gcp_project
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
-  http: ^0.13.4
+  http: ^1.0.0
   platform: ^3.1.0
 
 dev_dependencies:
-  mocktail: ^0.3.0
+  mocktail: ^1.0.1
   test: ^1.19.2
-  very_good_analysis: ^3.0.1
+  very_good_analysis: ^5.1.0
