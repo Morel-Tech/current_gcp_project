@@ -1,6 +1,6 @@
 name: current_gcp_project
 description: A helper to determine the current GCP project your code is running on.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Morel-Tech/current_gcp_project
 
 environment:
